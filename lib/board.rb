@@ -1,1 +1,1 @@
-# Define the variable board below.
+board = ["'cat', 'dog','yeallow', 'red', 'judy','romeo',' alpha', beta', 'gamma'"]
